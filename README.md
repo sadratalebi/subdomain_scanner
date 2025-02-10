@@ -6,7 +6,6 @@ To use this program, you must have the subdomains file in txt format alongside t
 - Use the following command to run the program:
 
 ```
-
 python subdomain_scanner.py example.com -w subdomains.txt -t 20 -o result.txt
 ```
 
